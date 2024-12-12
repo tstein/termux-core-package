@@ -11,6 +11,7 @@ These docs are meant for the developers, maintainers and contributors of the [`t
 ### Contents
 
 - [Build](#build)
+- [Test](#test)
 - [Contribute](#contribute)
 
 ---
@@ -24,6 +25,18 @@ These docs are meant for the developers, maintainers and contributors of the [`t
 ## Build
 
 Check [`build`](build/index.md) docs for **build instructions**.
+
+---
+
+&nbsp;
+
+
+
+
+
+## Test
+
+Check [`test`](test/index.md) docs for **test instructions**.
 
 ---
 
